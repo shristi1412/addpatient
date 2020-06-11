@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidSqliteCRUD.iml" filepath="$PROJECT_DIR$/AndroidSqliteCRUD.iml" group="AndroidSqliteCRUD" />
+      <module fileurl="file://$PROJECT_DIR$/app/AndroidSqliteCRUD-app.iml" filepath="$PROJECT_DIR$/app/AndroidSqliteCRUD-app.iml" group="AndroidSqliteCRUD/app" />
       <module fileurl="file://$PROJECT_DIR$/SqliteRecyclerview.iml" filepath="$PROJECT_DIR$/SqliteRecyclerview.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
